@@ -1,0 +1,8 @@
+# virtual env
+venv/
+
+# jupyter notebook
+.ipynb_checkpoints/
+
+# spark
+spark-warehouse/
