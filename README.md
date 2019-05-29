@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is the accompanying source code and analysis for the blog post "Using DomainTools Threat Profile to Identify Risky TLDs".
+This is the accompanying source code and analysis for the blog post ["Using DomainTools Threat Profile to Identify Risky TLDs"](https://blog.domaintools.com/2019/05/using-domaintools-threat-profile-to-identify-risky-tlds/).
 
 Jupyter Lab and pyspark were used to run the analysis and TLD clustering. Jupyter Lab is the next incarnation of the Jupyter Notebook web application that lets you write and execute code, view visualizations, and write narrative text along with an analysis. For a good introduction in how to use Jupyter Lab visit these two links:
 
